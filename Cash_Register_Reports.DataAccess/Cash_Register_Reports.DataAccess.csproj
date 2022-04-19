@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cash_Register_Reports.Business\Cash_Register_Reports.Business.csproj" />
+  </ItemGroup>
+
+</Project>
