@@ -1,0 +1,7302 @@
+[
+  {
+    "Id": 1,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8387434+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1001,
+      "Vat21": 210.21,
+      "TurnoverByCash": 250.25,
+      "TurnoverByCard": 750.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -250.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 2,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1002,
+      "Vat21": 210.42,
+      "TurnoverByCash": 250.50,
+      "TurnoverByCard": 751.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -250.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 3,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1003,
+      "Vat21": 210.63,
+      "TurnoverByCash": 250.75,
+      "TurnoverByCard": 752.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -250.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 4,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1004,
+      "Vat21": 210.84,
+      "TurnoverByCash": 251.00,
+      "TurnoverByCard": 753.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -251.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 5,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1005,
+      "Vat21": 211.05,
+      "TurnoverByCash": 251.25,
+      "TurnoverByCard": 753.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -251.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 6,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1006,
+      "Vat21": 211.26,
+      "TurnoverByCash": 251.50,
+      "TurnoverByCard": 754.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -251.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 7,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1007,
+      "Vat21": 211.47,
+      "TurnoverByCash": 251.75,
+      "TurnoverByCard": 755.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -251.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 8,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1008,
+      "Vat21": 211.68,
+      "TurnoverByCash": 252.00,
+      "TurnoverByCard": 756.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -252.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 9,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1009,
+      "Vat21": 211.89,
+      "TurnoverByCash": 252.25,
+      "TurnoverByCard": 756.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -252.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 10,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1010,
+      "Vat21": 212.10,
+      "TurnoverByCash": 252.50,
+      "TurnoverByCard": 757.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -252.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 11,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1011,
+      "Vat21": 212.31,
+      "TurnoverByCash": 252.75,
+      "TurnoverByCard": 758.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -252.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 12,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1012,
+      "Vat21": 212.52,
+      "TurnoverByCash": 253.00,
+      "TurnoverByCard": 759.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -253.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 13,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1013,
+      "Vat21": 212.73,
+      "TurnoverByCash": 253.25,
+      "TurnoverByCard": 759.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -253.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 14,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1014,
+      "Vat21": 212.94,
+      "TurnoverByCash": 253.50,
+      "TurnoverByCard": 760.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -253.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 15,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1015,
+      "Vat21": 213.15,
+      "TurnoverByCash": 253.75,
+      "TurnoverByCard": 761.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -253.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 16,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1016,
+      "Vat21": 213.36,
+      "TurnoverByCash": 254.00,
+      "TurnoverByCard": 762.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -254.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 17,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1017,
+      "Vat21": 213.57,
+      "TurnoverByCash": 254.25,
+      "TurnoverByCard": 762.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -254.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 18,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1018,
+      "Vat21": 213.78,
+      "TurnoverByCash": 254.50,
+      "TurnoverByCard": 763.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -254.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 19,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1019,
+      "Vat21": 213.99,
+      "TurnoverByCash": 254.75,
+      "TurnoverByCard": 764.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -254.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 20,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1020,
+      "Vat21": 214.20,
+      "TurnoverByCash": 255.00,
+      "TurnoverByCard": 765.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -255.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 21,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1021,
+      "Vat21": 214.41,
+      "TurnoverByCash": 255.25,
+      "TurnoverByCard": 765.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -255.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 22,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1022,
+      "Vat21": 214.62,
+      "TurnoverByCash": 255.50,
+      "TurnoverByCard": 766.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -255.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 23,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1023,
+      "Vat21": 214.83,
+      "TurnoverByCash": 255.75,
+      "TurnoverByCard": 767.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -255.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 24,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1024,
+      "Vat21": 215.04,
+      "TurnoverByCash": 256.00,
+      "TurnoverByCard": 768.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -256.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 25,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1025,
+      "Vat21": 215.25,
+      "TurnoverByCash": 256.25,
+      "TurnoverByCard": 768.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -256.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 26,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1026,
+      "Vat21": 215.46,
+      "TurnoverByCash": 256.50,
+      "TurnoverByCard": 769.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -256.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 27,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1027,
+      "Vat21": 215.67,
+      "TurnoverByCash": 256.75,
+      "TurnoverByCard": 770.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -256.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 28,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1028,
+      "Vat21": 215.88,
+      "TurnoverByCash": 257.00,
+      "TurnoverByCard": 771.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -257.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 29,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1029,
+      "Vat21": 216.09,
+      "TurnoverByCash": 257.25,
+      "TurnoverByCard": 771.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -257.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 30,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1030,
+      "Vat21": 216.30,
+      "TurnoverByCash": 257.50,
+      "TurnoverByCard": 772.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -257.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 31,
+    "ReportInfo": {
+      "ReportMonth": 1,
+      "ReportDay": 31,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 1031,
+      "Vat21": 216.51,
+      "TurnoverByCash": 257.75,
+      "TurnoverByCard": 773.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -257.75,
+      "CashBalance": 200,
+      "TotalReceipts": 41
+    }
+  },
+  {
+    "Id": 32,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2001,
+      "Vat21": 420.21,
+      "TurnoverByCash": 500.25,
+      "TurnoverByCard": 1500.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -500.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 33,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2002,
+      "Vat21": 420.42,
+      "TurnoverByCash": 500.50,
+      "TurnoverByCard": 1501.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -500.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 34,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2003,
+      "Vat21": 420.63,
+      "TurnoverByCash": 500.75,
+      "TurnoverByCard": 1502.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -500.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 35,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2004,
+      "Vat21": 420.84,
+      "TurnoverByCash": 501.00,
+      "TurnoverByCard": 1503.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -501.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 36,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2005,
+      "Vat21": 421.05,
+      "TurnoverByCash": 501.25,
+      "TurnoverByCard": 1503.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -501.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 37,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2006,
+      "Vat21": 421.26,
+      "TurnoverByCash": 501.50,
+      "TurnoverByCard": 1504.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -501.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 38,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2007,
+      "Vat21": 421.47,
+      "TurnoverByCash": 501.75,
+      "TurnoverByCard": 1505.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -501.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 39,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2008,
+      "Vat21": 421.68,
+      "TurnoverByCash": 502.00,
+      "TurnoverByCard": 1506.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -502.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 40,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2009,
+      "Vat21": 421.89,
+      "TurnoverByCash": 502.25,
+      "TurnoverByCard": 1506.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -502.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 41,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2010,
+      "Vat21": 422.10,
+      "TurnoverByCash": 502.50,
+      "TurnoverByCard": 1507.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -502.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 42,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2011,
+      "Vat21": 422.31,
+      "TurnoverByCash": 502.75,
+      "TurnoverByCard": 1508.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -502.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 43,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2012,
+      "Vat21": 422.52,
+      "TurnoverByCash": 503.00,
+      "TurnoverByCard": 1509.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -503.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 44,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2013,
+      "Vat21": 422.73,
+      "TurnoverByCash": 503.25,
+      "TurnoverByCard": 1509.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -503.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 45,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2014,
+      "Vat21": 422.94,
+      "TurnoverByCash": 503.50,
+      "TurnoverByCard": 1510.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -503.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 46,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2015,
+      "Vat21": 423.15,
+      "TurnoverByCash": 503.75,
+      "TurnoverByCard": 1511.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -503.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 47,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2016,
+      "Vat21": 423.36,
+      "TurnoverByCash": 504.00,
+      "TurnoverByCard": 1512.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -504.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 48,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2017,
+      "Vat21": 423.57,
+      "TurnoverByCash": 504.25,
+      "TurnoverByCard": 1512.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -504.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 49,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2018,
+      "Vat21": 423.78,
+      "TurnoverByCash": 504.50,
+      "TurnoverByCard": 1513.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -504.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 50,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2019,
+      "Vat21": 423.99,
+      "TurnoverByCash": 504.75,
+      "TurnoverByCard": 1514.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -504.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 51,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2020,
+      "Vat21": 424.20,
+      "TurnoverByCash": 505.00,
+      "TurnoverByCard": 1515.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -505.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 52,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2021,
+      "Vat21": 424.41,
+      "TurnoverByCash": 505.25,
+      "TurnoverByCard": 1515.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -505.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 53,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2022,
+      "Vat21": 424.62,
+      "TurnoverByCash": 505.50,
+      "TurnoverByCard": 1516.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -505.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 54,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2023,
+      "Vat21": 424.83,
+      "TurnoverByCash": 505.75,
+      "TurnoverByCard": 1517.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -505.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 55,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2024,
+      "Vat21": 425.04,
+      "TurnoverByCash": 506.00,
+      "TurnoverByCard": 1518.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -506.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 56,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2025,
+      "Vat21": 425.25,
+      "TurnoverByCash": 506.25,
+      "TurnoverByCard": 1518.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -506.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 57,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2026,
+      "Vat21": 425.46,
+      "TurnoverByCash": 506.50,
+      "TurnoverByCard": 1519.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -506.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 58,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2027,
+      "Vat21": 425.67,
+      "TurnoverByCash": 506.75,
+      "TurnoverByCard": 1520.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -506.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 59,
+    "ReportInfo": {
+      "ReportMonth": 2,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 2028,
+      "Vat21": 425.88,
+      "TurnoverByCash": 507.00,
+      "TurnoverByCard": 1521.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -507.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 60,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3001,
+      "Vat21": 630.21,
+      "TurnoverByCash": 750.25,
+      "TurnoverByCard": 2250.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -750.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 61,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3002,
+      "Vat21": 630.42,
+      "TurnoverByCash": 750.50,
+      "TurnoverByCard": 2251.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -750.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 62,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3003,
+      "Vat21": 630.63,
+      "TurnoverByCash": 750.75,
+      "TurnoverByCard": 2252.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -750.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 63,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3004,
+      "Vat21": 630.84,
+      "TurnoverByCash": 751.00,
+      "TurnoverByCard": 2253.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -751.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 64,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3005,
+      "Vat21": 631.05,
+      "TurnoverByCash": 751.25,
+      "TurnoverByCard": 2253.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -751.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 65,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3006,
+      "Vat21": 631.26,
+      "TurnoverByCash": 751.50,
+      "TurnoverByCard": 2254.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -751.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 66,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3007,
+      "Vat21": 631.47,
+      "TurnoverByCash": 751.75,
+      "TurnoverByCard": 2255.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -751.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 67,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3008,
+      "Vat21": 631.68,
+      "TurnoverByCash": 752.00,
+      "TurnoverByCard": 2256.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -752.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 68,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3009,
+      "Vat21": 631.89,
+      "TurnoverByCash": 752.25,
+      "TurnoverByCard": 2256.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -752.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 69,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3010,
+      "Vat21": 632.10,
+      "TurnoverByCash": 752.50,
+      "TurnoverByCard": 2257.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -752.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 70,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3011,
+      "Vat21": 632.31,
+      "TurnoverByCash": 752.75,
+      "TurnoverByCard": 2258.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -752.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 71,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3012,
+      "Vat21": 632.52,
+      "TurnoverByCash": 753.00,
+      "TurnoverByCard": 2259.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -753.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 72,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3013,
+      "Vat21": 632.73,
+      "TurnoverByCash": 753.25,
+      "TurnoverByCard": 2259.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -753.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 73,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3014,
+      "Vat21": 632.94,
+      "TurnoverByCash": 753.50,
+      "TurnoverByCard": 2260.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -753.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 74,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3015,
+      "Vat21": 633.15,
+      "TurnoverByCash": 753.75,
+      "TurnoverByCard": 2261.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -753.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 75,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3016,
+      "Vat21": 633.36,
+      "TurnoverByCash": 754.00,
+      "TurnoverByCard": 2262.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -754.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 76,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3017,
+      "Vat21": 633.57,
+      "TurnoverByCash": 754.25,
+      "TurnoverByCard": 2262.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -754.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 77,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3018,
+      "Vat21": 633.78,
+      "TurnoverByCash": 754.50,
+      "TurnoverByCard": 2263.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -754.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 78,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3019,
+      "Vat21": 633.99,
+      "TurnoverByCash": 754.75,
+      "TurnoverByCard": 2264.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -754.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 79,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3020,
+      "Vat21": 634.20,
+      "TurnoverByCash": 755.00,
+      "TurnoverByCard": 2265.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -755.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 80,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3021,
+      "Vat21": 634.41,
+      "TurnoverByCash": 755.25,
+      "TurnoverByCard": 2265.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -755.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 81,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3022,
+      "Vat21": 634.62,
+      "TurnoverByCash": 755.50,
+      "TurnoverByCard": 2266.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -755.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 82,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3023,
+      "Vat21": 634.83,
+      "TurnoverByCash": 755.75,
+      "TurnoverByCard": 2267.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -755.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 83,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3024,
+      "Vat21": 635.04,
+      "TurnoverByCash": 756.00,
+      "TurnoverByCard": 2268.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -756.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 84,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3025,
+      "Vat21": 635.25,
+      "TurnoverByCash": 756.25,
+      "TurnoverByCard": 2268.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -756.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 85,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3026,
+      "Vat21": 635.46,
+      "TurnoverByCash": 756.50,
+      "TurnoverByCard": 2269.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -756.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 86,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3027,
+      "Vat21": 635.67,
+      "TurnoverByCash": 756.75,
+      "TurnoverByCard": 2270.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -756.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 87,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3028,
+      "Vat21": 635.88,
+      "TurnoverByCash": 757.00,
+      "TurnoverByCard": 2271.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -757.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 88,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3029,
+      "Vat21": 636.09,
+      "TurnoverByCash": 757.25,
+      "TurnoverByCard": 2271.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -757.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 89,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3030,
+      "Vat21": 636.30,
+      "TurnoverByCash": 757.50,
+      "TurnoverByCard": 2272.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -757.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 90,
+    "ReportInfo": {
+      "ReportMonth": 3,
+      "ReportDay": 31,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 3031,
+      "Vat21": 636.51,
+      "TurnoverByCash": 757.75,
+      "TurnoverByCard": 2273.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -757.75,
+      "CashBalance": 200,
+      "TotalReceipts": 41
+    }
+  },
+  {
+    "Id": 91,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4001,
+      "Vat21": 840.21,
+      "TurnoverByCash": 1000.25,
+      "TurnoverByCard": 3000.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1000.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 92,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4002,
+      "Vat21": 840.42,
+      "TurnoverByCash": 1000.50,
+      "TurnoverByCard": 3001.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1000.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 93,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4003,
+      "Vat21": 840.63,
+      "TurnoverByCash": 1000.75,
+      "TurnoverByCard": 3002.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1000.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 94,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4004,
+      "Vat21": 840.84,
+      "TurnoverByCash": 1001.00,
+      "TurnoverByCard": 3003.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1001.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 95,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4005,
+      "Vat21": 841.05,
+      "TurnoverByCash": 1001.25,
+      "TurnoverByCard": 3003.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1001.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 96,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4006,
+      "Vat21": 841.26,
+      "TurnoverByCash": 1001.50,
+      "TurnoverByCard": 3004.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1001.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 97,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4007,
+      "Vat21": 841.47,
+      "TurnoverByCash": 1001.75,
+      "TurnoverByCard": 3005.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1001.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 98,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4008,
+      "Vat21": 841.68,
+      "TurnoverByCash": 1002.00,
+      "TurnoverByCard": 3006.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1002.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 99,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4009,
+      "Vat21": 841.89,
+      "TurnoverByCash": 1002.25,
+      "TurnoverByCard": 3006.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1002.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 100,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4010,
+      "Vat21": 842.10,
+      "TurnoverByCash": 1002.50,
+      "TurnoverByCard": 3007.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1002.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 101,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4011,
+      "Vat21": 842.31,
+      "TurnoverByCash": 1002.75,
+      "TurnoverByCard": 3008.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1002.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 102,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4012,
+      "Vat21": 842.52,
+      "TurnoverByCash": 1003.00,
+      "TurnoverByCard": 3009.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1003.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 103,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4013,
+      "Vat21": 842.73,
+      "TurnoverByCash": 1003.25,
+      "TurnoverByCard": 3009.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1003.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 104,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4014,
+      "Vat21": 842.94,
+      "TurnoverByCash": 1003.50,
+      "TurnoverByCard": 3010.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1003.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 105,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4015,
+      "Vat21": 843.15,
+      "TurnoverByCash": 1003.75,
+      "TurnoverByCard": 3011.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1003.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 106,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4016,
+      "Vat21": 843.36,
+      "TurnoverByCash": 1004.00,
+      "TurnoverByCard": 3012.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1004.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 107,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4017,
+      "Vat21": 843.57,
+      "TurnoverByCash": 1004.25,
+      "TurnoverByCard": 3012.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1004.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 108,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4018,
+      "Vat21": 843.78,
+      "TurnoverByCash": 1004.50,
+      "TurnoverByCard": 3013.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1004.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 109,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4019,
+      "Vat21": 843.99,
+      "TurnoverByCash": 1004.75,
+      "TurnoverByCard": 3014.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1004.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 110,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4020,
+      "Vat21": 844.20,
+      "TurnoverByCash": 1005.00,
+      "TurnoverByCard": 3015.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1005.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 111,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4021,
+      "Vat21": 844.41,
+      "TurnoverByCash": 1005.25,
+      "TurnoverByCard": 3015.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1005.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 112,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4022,
+      "Vat21": 844.62,
+      "TurnoverByCash": 1005.50,
+      "TurnoverByCard": 3016.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1005.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 113,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4023,
+      "Vat21": 844.83,
+      "TurnoverByCash": 1005.75,
+      "TurnoverByCard": 3017.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1005.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 114,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4024,
+      "Vat21": 845.04,
+      "TurnoverByCash": 1006.00,
+      "TurnoverByCard": 3018.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1006.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 115,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4025,
+      "Vat21": 845.25,
+      "TurnoverByCash": 1006.25,
+      "TurnoverByCard": 3018.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1006.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 116,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4026,
+      "Vat21": 845.46,
+      "TurnoverByCash": 1006.50,
+      "TurnoverByCard": 3019.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1006.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 117,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4027,
+      "Vat21": 845.67,
+      "TurnoverByCash": 1006.75,
+      "TurnoverByCard": 3020.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1006.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 118,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4028,
+      "Vat21": 845.88,
+      "TurnoverByCash": 1007.00,
+      "TurnoverByCard": 3021.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1007.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 119,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4029,
+      "Vat21": 846.09,
+      "TurnoverByCash": 1007.25,
+      "TurnoverByCard": 3021.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1007.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 120,
+    "ReportInfo": {
+      "ReportMonth": 4,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 4030,
+      "Vat21": 846.30,
+      "TurnoverByCash": 1007.50,
+      "TurnoverByCard": 3022.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1007.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 121,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5001,
+      "Vat21": 1050.21,
+      "TurnoverByCash": 1250.25,
+      "TurnoverByCard": 3750.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1250.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 122,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5002,
+      "Vat21": 1050.42,
+      "TurnoverByCash": 1250.50,
+      "TurnoverByCard": 3751.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1250.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 123,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5003,
+      "Vat21": 1050.63,
+      "TurnoverByCash": 1250.75,
+      "TurnoverByCard": 3752.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1250.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 124,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5004,
+      "Vat21": 1050.84,
+      "TurnoverByCash": 1251.00,
+      "TurnoverByCard": 3753.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1251.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 125,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5005,
+      "Vat21": 1051.05,
+      "TurnoverByCash": 1251.25,
+      "TurnoverByCard": 3753.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1251.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 126,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5006,
+      "Vat21": 1051.26,
+      "TurnoverByCash": 1251.50,
+      "TurnoverByCard": 3754.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1251.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 127,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5007,
+      "Vat21": 1051.47,
+      "TurnoverByCash": 1251.75,
+      "TurnoverByCard": 3755.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1251.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 128,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5008,
+      "Vat21": 1051.68,
+      "TurnoverByCash": 1252.00,
+      "TurnoverByCard": 3756.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1252.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 129,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5009,
+      "Vat21": 1051.89,
+      "TurnoverByCash": 1252.25,
+      "TurnoverByCard": 3756.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1252.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 130,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5010,
+      "Vat21": 1052.10,
+      "TurnoverByCash": 1252.50,
+      "TurnoverByCard": 3757.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1252.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 131,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5011,
+      "Vat21": 1052.31,
+      "TurnoverByCash": 1252.75,
+      "TurnoverByCard": 3758.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1252.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 132,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5012,
+      "Vat21": 1052.52,
+      "TurnoverByCash": 1253.00,
+      "TurnoverByCard": 3759.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1253.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 133,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5013,
+      "Vat21": 1052.73,
+      "TurnoverByCash": 1253.25,
+      "TurnoverByCard": 3759.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1253.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 134,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5014,
+      "Vat21": 1052.94,
+      "TurnoverByCash": 1253.50,
+      "TurnoverByCard": 3760.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1253.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 135,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5015,
+      "Vat21": 1053.15,
+      "TurnoverByCash": 1253.75,
+      "TurnoverByCard": 3761.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1253.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 136,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5016,
+      "Vat21": 1053.36,
+      "TurnoverByCash": 1254.00,
+      "TurnoverByCard": 3762.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1254.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 137,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5017,
+      "Vat21": 1053.57,
+      "TurnoverByCash": 1254.25,
+      "TurnoverByCard": 3762.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1254.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 138,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5018,
+      "Vat21": 1053.78,
+      "TurnoverByCash": 1254.50,
+      "TurnoverByCard": 3763.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1254.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 139,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5019,
+      "Vat21": 1053.99,
+      "TurnoverByCash": 1254.75,
+      "TurnoverByCard": 3764.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1254.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 140,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5020,
+      "Vat21": 1054.20,
+      "TurnoverByCash": 1255.00,
+      "TurnoverByCard": 3765.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1255.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 141,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5021,
+      "Vat21": 1054.41,
+      "TurnoverByCash": 1255.25,
+      "TurnoverByCard": 3765.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1255.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 142,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5022,
+      "Vat21": 1054.62,
+      "TurnoverByCash": 1255.50,
+      "TurnoverByCard": 3766.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1255.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 143,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5023,
+      "Vat21": 1054.83,
+      "TurnoverByCash": 1255.75,
+      "TurnoverByCard": 3767.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1255.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 144,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8567444+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5024,
+      "Vat21": 1055.04,
+      "TurnoverByCash": 1256.00,
+      "TurnoverByCard": 3768.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1256.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 145,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5025,
+      "Vat21": 1055.25,
+      "TurnoverByCash": 1256.25,
+      "TurnoverByCard": 3768.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1256.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 146,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5026,
+      "Vat21": 1055.46,
+      "TurnoverByCash": 1256.50,
+      "TurnoverByCard": 3769.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1256.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 147,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5027,
+      "Vat21": 1055.67,
+      "TurnoverByCash": 1256.75,
+      "TurnoverByCard": 3770.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1256.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 148,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5028,
+      "Vat21": 1055.88,
+      "TurnoverByCash": 1257.00,
+      "TurnoverByCard": 3771.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1257.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 149,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5029,
+      "Vat21": 1056.09,
+      "TurnoverByCash": 1257.25,
+      "TurnoverByCard": 3771.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1257.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 150,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5030,
+      "Vat21": 1056.30,
+      "TurnoverByCash": 1257.50,
+      "TurnoverByCard": 3772.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1257.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 151,
+    "ReportInfo": {
+      "ReportMonth": 5,
+      "ReportDay": 31,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 5031,
+      "Vat21": 1056.51,
+      "TurnoverByCash": 1257.75,
+      "TurnoverByCard": 3773.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1257.75,
+      "CashBalance": 200,
+      "TotalReceipts": 41
+    }
+  },
+  {
+    "Id": 152,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6001,
+      "Vat21": 1260.21,
+      "TurnoverByCash": 1500.25,
+      "TurnoverByCard": 4500.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1500.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 153,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6002,
+      "Vat21": 1260.42,
+      "TurnoverByCash": 1500.50,
+      "TurnoverByCard": 4501.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1500.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 154,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6003,
+      "Vat21": 1260.63,
+      "TurnoverByCash": 1500.75,
+      "TurnoverByCard": 4502.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1500.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 155,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6004,
+      "Vat21": 1260.84,
+      "TurnoverByCash": 1501.00,
+      "TurnoverByCard": 4503.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1501.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 156,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6005,
+      "Vat21": 1261.05,
+      "TurnoverByCash": 1501.25,
+      "TurnoverByCard": 4503.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1501.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 157,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6006,
+      "Vat21": 1261.26,
+      "TurnoverByCash": 1501.50,
+      "TurnoverByCard": 4504.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1501.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 158,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6007,
+      "Vat21": 1261.47,
+      "TurnoverByCash": 1501.75,
+      "TurnoverByCard": 4505.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1501.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 159,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6008,
+      "Vat21": 1261.68,
+      "TurnoverByCash": 1502.00,
+      "TurnoverByCard": 4506.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1502.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 160,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6009,
+      "Vat21": 1261.89,
+      "TurnoverByCash": 1502.25,
+      "TurnoverByCard": 4506.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1502.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 161,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6010,
+      "Vat21": 1262.10,
+      "TurnoverByCash": 1502.50,
+      "TurnoverByCard": 4507.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1502.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 162,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6011,
+      "Vat21": 1262.31,
+      "TurnoverByCash": 1502.75,
+      "TurnoverByCard": 4508.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1502.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 163,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6012,
+      "Vat21": 1262.52,
+      "TurnoverByCash": 1503.00,
+      "TurnoverByCard": 4509.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1503.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 164,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6013,
+      "Vat21": 1262.73,
+      "TurnoverByCash": 1503.25,
+      "TurnoverByCard": 4509.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1503.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 165,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6014,
+      "Vat21": 1262.94,
+      "TurnoverByCash": 1503.50,
+      "TurnoverByCard": 4510.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1503.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 166,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6015,
+      "Vat21": 1263.15,
+      "TurnoverByCash": 1503.75,
+      "TurnoverByCard": 4511.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1503.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 167,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6016,
+      "Vat21": 1263.36,
+      "TurnoverByCash": 1504.00,
+      "TurnoverByCard": 4512.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1504.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 168,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6017,
+      "Vat21": 1263.57,
+      "TurnoverByCash": 1504.25,
+      "TurnoverByCard": 4512.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1504.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 169,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6018,
+      "Vat21": 1263.78,
+      "TurnoverByCash": 1504.50,
+      "TurnoverByCard": 4513.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1504.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 170,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6019,
+      "Vat21": 1263.99,
+      "TurnoverByCash": 1504.75,
+      "TurnoverByCard": 4514.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1504.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 171,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6020,
+      "Vat21": 1264.20,
+      "TurnoverByCash": 1505.00,
+      "TurnoverByCard": 4515.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1505.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 172,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6021,
+      "Vat21": 1264.41,
+      "TurnoverByCash": 1505.25,
+      "TurnoverByCard": 4515.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1505.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 173,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6022,
+      "Vat21": 1264.62,
+      "TurnoverByCash": 1505.50,
+      "TurnoverByCard": 4516.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1505.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 174,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6023,
+      "Vat21": 1264.83,
+      "TurnoverByCash": 1505.75,
+      "TurnoverByCard": 4517.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1505.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 175,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6024,
+      "Vat21": 1265.04,
+      "TurnoverByCash": 1506.00,
+      "TurnoverByCard": 4518.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1506.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 176,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6025,
+      "Vat21": 1265.25,
+      "TurnoverByCash": 1506.25,
+      "TurnoverByCard": 4518.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1506.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 177,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6026,
+      "Vat21": 1265.46,
+      "TurnoverByCash": 1506.50,
+      "TurnoverByCard": 4519.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1506.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 178,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6027,
+      "Vat21": 1265.67,
+      "TurnoverByCash": 1506.75,
+      "TurnoverByCard": 4520.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1506.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 179,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6028,
+      "Vat21": 1265.88,
+      "TurnoverByCash": 1507.00,
+      "TurnoverByCard": 4521.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1507.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 180,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6029,
+      "Vat21": 1266.09,
+      "TurnoverByCash": 1507.25,
+      "TurnoverByCard": 4521.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1507.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 181,
+    "ReportInfo": {
+      "ReportMonth": 6,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 6030,
+      "Vat21": 1266.30,
+      "TurnoverByCash": 1507.50,
+      "TurnoverByCard": 4522.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1507.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 182,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7001,
+      "Vat21": 1470.21,
+      "TurnoverByCash": 1750.25,
+      "TurnoverByCard": 5250.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1750.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 183,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7002,
+      "Vat21": 1470.42,
+      "TurnoverByCash": 1750.50,
+      "TurnoverByCard": 5251.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1750.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 184,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7003,
+      "Vat21": 1470.63,
+      "TurnoverByCash": 1750.75,
+      "TurnoverByCard": 5252.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1750.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 185,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7004,
+      "Vat21": 1470.84,
+      "TurnoverByCash": 1751.00,
+      "TurnoverByCard": 5253.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1751.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 186,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7005,
+      "Vat21": 1471.05,
+      "TurnoverByCash": 1751.25,
+      "TurnoverByCard": 5253.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1751.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 187,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7006,
+      "Vat21": 1471.26,
+      "TurnoverByCash": 1751.50,
+      "TurnoverByCard": 5254.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1751.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 188,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7007,
+      "Vat21": 1471.47,
+      "TurnoverByCash": 1751.75,
+      "TurnoverByCard": 5255.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1751.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 189,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7008,
+      "Vat21": 1471.68,
+      "TurnoverByCash": 1752.00,
+      "TurnoverByCard": 5256.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1752.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 190,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7009,
+      "Vat21": 1471.89,
+      "TurnoverByCash": 1752.25,
+      "TurnoverByCard": 5256.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1752.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 191,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7010,
+      "Vat21": 1472.10,
+      "TurnoverByCash": 1752.50,
+      "TurnoverByCard": 5257.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1752.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 192,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7011,
+      "Vat21": 1472.31,
+      "TurnoverByCash": 1752.75,
+      "TurnoverByCard": 5258.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1752.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 193,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7012,
+      "Vat21": 1472.52,
+      "TurnoverByCash": 1753.00,
+      "TurnoverByCard": 5259.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1753.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 194,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7013,
+      "Vat21": 1472.73,
+      "TurnoverByCash": 1753.25,
+      "TurnoverByCard": 5259.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1753.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 195,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7014,
+      "Vat21": 1472.94,
+      "TurnoverByCash": 1753.50,
+      "TurnoverByCard": 5260.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1753.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 196,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7015,
+      "Vat21": 1473.15,
+      "TurnoverByCash": 1753.75,
+      "TurnoverByCard": 5261.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1753.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 197,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7016,
+      "Vat21": 1473.36,
+      "TurnoverByCash": 1754.00,
+      "TurnoverByCard": 5262.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1754.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 198,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7017,
+      "Vat21": 1473.57,
+      "TurnoverByCash": 1754.25,
+      "TurnoverByCard": 5262.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1754.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 199,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7018,
+      "Vat21": 1473.78,
+      "TurnoverByCash": 1754.50,
+      "TurnoverByCard": 5263.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1754.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 200,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7019,
+      "Vat21": 1473.99,
+      "TurnoverByCash": 1754.75,
+      "TurnoverByCard": 5264.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1754.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 201,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7020,
+      "Vat21": 1474.20,
+      "TurnoverByCash": 1755.00,
+      "TurnoverByCard": 5265.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1755.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 202,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7021,
+      "Vat21": 1474.41,
+      "TurnoverByCash": 1755.25,
+      "TurnoverByCard": 5265.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1755.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 203,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7022,
+      "Vat21": 1474.62,
+      "TurnoverByCash": 1755.50,
+      "TurnoverByCard": 5266.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1755.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 204,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7023,
+      "Vat21": 1474.83,
+      "TurnoverByCash": 1755.75,
+      "TurnoverByCard": 5267.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1755.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 205,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7024,
+      "Vat21": 1475.04,
+      "TurnoverByCash": 1756.00,
+      "TurnoverByCard": 5268.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1756.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 206,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7025,
+      "Vat21": 1475.25,
+      "TurnoverByCash": 1756.25,
+      "TurnoverByCard": 5268.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1756.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 207,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7026,
+      "Vat21": 1475.46,
+      "TurnoverByCash": 1756.50,
+      "TurnoverByCard": 5269.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1756.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 208,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7027,
+      "Vat21": 1475.67,
+      "TurnoverByCash": 1756.75,
+      "TurnoverByCard": 5270.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1756.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 209,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7028,
+      "Vat21": 1475.88,
+      "TurnoverByCash": 1757.00,
+      "TurnoverByCard": 5271.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1757.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 210,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7029,
+      "Vat21": 1476.09,
+      "TurnoverByCash": 1757.25,
+      "TurnoverByCard": 5271.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1757.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 211,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7030,
+      "Vat21": 1476.30,
+      "TurnoverByCash": 1757.50,
+      "TurnoverByCard": 5272.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1757.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 212,
+    "ReportInfo": {
+      "ReportMonth": 7,
+      "ReportDay": 31,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 7031,
+      "Vat21": 1476.51,
+      "TurnoverByCash": 1757.75,
+      "TurnoverByCard": 5273.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -1757.75,
+      "CashBalance": 200,
+      "TotalReceipts": 41
+    }
+  },
+  {
+    "Id": 213,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8001,
+      "Vat21": 1680.21,
+      "TurnoverByCash": 2000.25,
+      "TurnoverByCard": 6000.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2000.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 214,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8002,
+      "Vat21": 1680.42,
+      "TurnoverByCash": 2000.50,
+      "TurnoverByCard": 6001.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2000.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 215,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8003,
+      "Vat21": 1680.63,
+      "TurnoverByCash": 2000.75,
+      "TurnoverByCard": 6002.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2000.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 216,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8004,
+      "Vat21": 1680.84,
+      "TurnoverByCash": 2001.00,
+      "TurnoverByCard": 6003.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2001.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 217,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8005,
+      "Vat21": 1681.05,
+      "TurnoverByCash": 2001.25,
+      "TurnoverByCard": 6003.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2001.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 218,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8006,
+      "Vat21": 1681.26,
+      "TurnoverByCash": 2001.50,
+      "TurnoverByCard": 6004.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2001.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 219,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8007,
+      "Vat21": 1681.47,
+      "TurnoverByCash": 2001.75,
+      "TurnoverByCard": 6005.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2001.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 220,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8008,
+      "Vat21": 1681.68,
+      "TurnoverByCash": 2002.00,
+      "TurnoverByCard": 6006.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2002.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 221,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8009,
+      "Vat21": 1681.89,
+      "TurnoverByCash": 2002.25,
+      "TurnoverByCard": 6006.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2002.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 222,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8010,
+      "Vat21": 1682.10,
+      "TurnoverByCash": 2002.50,
+      "TurnoverByCard": 6007.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2002.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 223,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8011,
+      "Vat21": 1682.31,
+      "TurnoverByCash": 2002.75,
+      "TurnoverByCard": 6008.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2002.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 224,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8012,
+      "Vat21": 1682.52,
+      "TurnoverByCash": 2003.00,
+      "TurnoverByCard": 6009.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2003.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 225,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8013,
+      "Vat21": 1682.73,
+      "TurnoverByCash": 2003.25,
+      "TurnoverByCard": 6009.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2003.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 226,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8014,
+      "Vat21": 1682.94,
+      "TurnoverByCash": 2003.50,
+      "TurnoverByCard": 6010.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2003.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 227,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8015,
+      "Vat21": 1683.15,
+      "TurnoverByCash": 2003.75,
+      "TurnoverByCard": 6011.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2003.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 228,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8016,
+      "Vat21": 1683.36,
+      "TurnoverByCash": 2004.00,
+      "TurnoverByCard": 6012.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2004.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 229,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8017,
+      "Vat21": 1683.57,
+      "TurnoverByCash": 2004.25,
+      "TurnoverByCard": 6012.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2004.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 230,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8018,
+      "Vat21": 1683.78,
+      "TurnoverByCash": 2004.50,
+      "TurnoverByCard": 6013.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2004.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 231,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8019,
+      "Vat21": 1683.99,
+      "TurnoverByCash": 2004.75,
+      "TurnoverByCard": 6014.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2004.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 232,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8020,
+      "Vat21": 1684.20,
+      "TurnoverByCash": 2005.00,
+      "TurnoverByCard": 6015.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2005.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 233,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8021,
+      "Vat21": 1684.41,
+      "TurnoverByCash": 2005.25,
+      "TurnoverByCard": 6015.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2005.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 234,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8022,
+      "Vat21": 1684.62,
+      "TurnoverByCash": 2005.50,
+      "TurnoverByCard": 6016.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2005.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 235,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8023,
+      "Vat21": 1684.83,
+      "TurnoverByCash": 2005.75,
+      "TurnoverByCard": 6017.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2005.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 236,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8024,
+      "Vat21": 1685.04,
+      "TurnoverByCash": 2006.00,
+      "TurnoverByCard": 6018.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2006.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 237,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8025,
+      "Vat21": 1685.25,
+      "TurnoverByCash": 2006.25,
+      "TurnoverByCard": 6018.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2006.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 238,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8026,
+      "Vat21": 1685.46,
+      "TurnoverByCash": 2006.50,
+      "TurnoverByCard": 6019.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2006.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 239,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8027,
+      "Vat21": 1685.67,
+      "TurnoverByCash": 2006.75,
+      "TurnoverByCard": 6020.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2006.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 240,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8028,
+      "Vat21": 1685.88,
+      "TurnoverByCash": 2007.00,
+      "TurnoverByCard": 6021.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2007.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 241,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8029,
+      "Vat21": 1686.09,
+      "TurnoverByCash": 2007.25,
+      "TurnoverByCard": 6021.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2007.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 242,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8030,
+      "Vat21": 1686.30,
+      "TurnoverByCash": 2007.50,
+      "TurnoverByCard": 6022.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2007.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 243,
+    "ReportInfo": {
+      "ReportMonth": 8,
+      "ReportDay": 31,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 8031,
+      "Vat21": 1686.51,
+      "TurnoverByCash": 2007.75,
+      "TurnoverByCard": 6023.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2007.75,
+      "CashBalance": 200,
+      "TotalReceipts": 41
+    }
+  },
+  {
+    "Id": 244,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9001,
+      "Vat21": 1890.21,
+      "TurnoverByCash": 2250.25,
+      "TurnoverByCard": 6750.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2250.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 245,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9002,
+      "Vat21": 1890.42,
+      "TurnoverByCash": 2250.50,
+      "TurnoverByCard": 6751.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2250.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 246,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9003,
+      "Vat21": 1890.63,
+      "TurnoverByCash": 2250.75,
+      "TurnoverByCard": 6752.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2250.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 247,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9004,
+      "Vat21": 1890.84,
+      "TurnoverByCash": 2251.00,
+      "TurnoverByCard": 6753.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2251.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 248,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9005,
+      "Vat21": 1891.05,
+      "TurnoverByCash": 2251.25,
+      "TurnoverByCard": 6753.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2251.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 249,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9006,
+      "Vat21": 1891.26,
+      "TurnoverByCash": 2251.50,
+      "TurnoverByCard": 6754.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2251.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 250,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9007,
+      "Vat21": 1891.47,
+      "TurnoverByCash": 2251.75,
+      "TurnoverByCard": 6755.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2251.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 251,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9008,
+      "Vat21": 1891.68,
+      "TurnoverByCash": 2252.00,
+      "TurnoverByCard": 6756.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2252.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 252,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9009,
+      "Vat21": 1891.89,
+      "TurnoverByCash": 2252.25,
+      "TurnoverByCard": 6756.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2252.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 253,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9010,
+      "Vat21": 1892.10,
+      "TurnoverByCash": 2252.50,
+      "TurnoverByCard": 6757.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2252.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 254,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9011,
+      "Vat21": 1892.31,
+      "TurnoverByCash": 2252.75,
+      "TurnoverByCard": 6758.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2252.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 255,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9012,
+      "Vat21": 1892.52,
+      "TurnoverByCash": 2253.00,
+      "TurnoverByCard": 6759.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2253.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 256,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9013,
+      "Vat21": 1892.73,
+      "TurnoverByCash": 2253.25,
+      "TurnoverByCard": 6759.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2253.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 257,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9014,
+      "Vat21": 1892.94,
+      "TurnoverByCash": 2253.50,
+      "TurnoverByCard": 6760.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2253.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 258,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9015,
+      "Vat21": 1893.15,
+      "TurnoverByCash": 2253.75,
+      "TurnoverByCard": 6761.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2253.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 259,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9016,
+      "Vat21": 1893.36,
+      "TurnoverByCash": 2254.00,
+      "TurnoverByCard": 6762.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2254.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 260,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9017,
+      "Vat21": 1893.57,
+      "TurnoverByCash": 2254.25,
+      "TurnoverByCard": 6762.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2254.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 261,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9018,
+      "Vat21": 1893.78,
+      "TurnoverByCash": 2254.50,
+      "TurnoverByCard": 6763.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2254.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 262,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9019,
+      "Vat21": 1893.99,
+      "TurnoverByCash": 2254.75,
+      "TurnoverByCard": 6764.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2254.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 263,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9020,
+      "Vat21": 1894.20,
+      "TurnoverByCash": 2255.00,
+      "TurnoverByCard": 6765.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2255.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 264,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9021,
+      "Vat21": 1894.41,
+      "TurnoverByCash": 2255.25,
+      "TurnoverByCard": 6765.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2255.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 265,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9022,
+      "Vat21": 1894.62,
+      "TurnoverByCash": 2255.50,
+      "TurnoverByCard": 6766.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2255.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 266,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9023,
+      "Vat21": 1894.83,
+      "TurnoverByCash": 2255.75,
+      "TurnoverByCard": 6767.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2255.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 267,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9024,
+      "Vat21": 1895.04,
+      "TurnoverByCash": 2256.00,
+      "TurnoverByCard": 6768.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2256.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 268,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9025,
+      "Vat21": 1895.25,
+      "TurnoverByCash": 2256.25,
+      "TurnoverByCard": 6768.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2256.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 269,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9026,
+      "Vat21": 1895.46,
+      "TurnoverByCash": 2256.50,
+      "TurnoverByCard": 6769.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2256.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 270,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9027,
+      "Vat21": 1895.67,
+      "TurnoverByCash": 2256.75,
+      "TurnoverByCard": 6770.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2256.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 271,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9028,
+      "Vat21": 1895.88,
+      "TurnoverByCash": 2257.00,
+      "TurnoverByCard": 6771.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2257.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 272,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9029,
+      "Vat21": 1896.09,
+      "TurnoverByCash": 2257.25,
+      "TurnoverByCard": 6771.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2257.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 273,
+    "ReportInfo": {
+      "ReportMonth": 9,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 9030,
+      "Vat21": 1896.30,
+      "TurnoverByCash": 2257.50,
+      "TurnoverByCard": 6772.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2257.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 274,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10001,
+      "Vat21": 2100.21,
+      "TurnoverByCash": 2500.25,
+      "TurnoverByCard": 7500.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2500.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 275,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10002,
+      "Vat21": 2100.42,
+      "TurnoverByCash": 2500.50,
+      "TurnoverByCard": 7501.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2500.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 276,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10003,
+      "Vat21": 2100.63,
+      "TurnoverByCash": 2500.75,
+      "TurnoverByCard": 7502.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2500.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 277,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10004,
+      "Vat21": 2100.84,
+      "TurnoverByCash": 2501.00,
+      "TurnoverByCard": 7503.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2501.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 278,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10005,
+      "Vat21": 2101.05,
+      "TurnoverByCash": 2501.25,
+      "TurnoverByCard": 7503.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2501.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 279,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10006,
+      "Vat21": 2101.26,
+      "TurnoverByCash": 2501.50,
+      "TurnoverByCard": 7504.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2501.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 280,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10007,
+      "Vat21": 2101.47,
+      "TurnoverByCash": 2501.75,
+      "TurnoverByCard": 7505.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2501.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 281,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10008,
+      "Vat21": 2101.68,
+      "TurnoverByCash": 2502.00,
+      "TurnoverByCard": 7506.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2502.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 282,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10009,
+      "Vat21": 2101.89,
+      "TurnoverByCash": 2502.25,
+      "TurnoverByCard": 7506.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2502.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 283,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10010,
+      "Vat21": 2102.10,
+      "TurnoverByCash": 2502.50,
+      "TurnoverByCard": 7507.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2502.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 284,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10011,
+      "Vat21": 2102.31,
+      "TurnoverByCash": 2502.75,
+      "TurnoverByCard": 7508.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2502.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 285,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10012,
+      "Vat21": 2102.52,
+      "TurnoverByCash": 2503.00,
+      "TurnoverByCard": 7509.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2503.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 286,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10013,
+      "Vat21": 2102.73,
+      "TurnoverByCash": 2503.25,
+      "TurnoverByCard": 7509.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2503.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 287,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10014,
+      "Vat21": 2102.94,
+      "TurnoverByCash": 2503.50,
+      "TurnoverByCard": 7510.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2503.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 288,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10015,
+      "Vat21": 2103.15,
+      "TurnoverByCash": 2503.75,
+      "TurnoverByCard": 7511.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2503.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 289,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10016,
+      "Vat21": 2103.36,
+      "TurnoverByCash": 2504.00,
+      "TurnoverByCard": 7512.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2504.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 290,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10017,
+      "Vat21": 2103.57,
+      "TurnoverByCash": 2504.25,
+      "TurnoverByCard": 7512.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2504.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 291,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10018,
+      "Vat21": 2103.78,
+      "TurnoverByCash": 2504.50,
+      "TurnoverByCard": 7513.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2504.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 292,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10019,
+      "Vat21": 2103.99,
+      "TurnoverByCash": 2504.75,
+      "TurnoverByCard": 7514.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2504.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 293,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10020,
+      "Vat21": 2104.20,
+      "TurnoverByCash": 2505.00,
+      "TurnoverByCard": 7515.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2505.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 294,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10021,
+      "Vat21": 2104.41,
+      "TurnoverByCash": 2505.25,
+      "TurnoverByCard": 7515.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2505.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 295,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10022,
+      "Vat21": 2104.62,
+      "TurnoverByCash": 2505.50,
+      "TurnoverByCard": 7516.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2505.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 296,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10023,
+      "Vat21": 2104.83,
+      "TurnoverByCash": 2505.75,
+      "TurnoverByCard": 7517.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2505.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 297,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10024,
+      "Vat21": 2105.04,
+      "TurnoverByCash": 2506.00,
+      "TurnoverByCard": 7518.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2506.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 298,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10025,
+      "Vat21": 2105.25,
+      "TurnoverByCash": 2506.25,
+      "TurnoverByCard": 7518.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2506.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 299,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10026,
+      "Vat21": 2105.46,
+      "TurnoverByCash": 2506.50,
+      "TurnoverByCard": 7519.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2506.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 300,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10027,
+      "Vat21": 2105.67,
+      "TurnoverByCash": 2506.75,
+      "TurnoverByCard": 7520.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2506.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 301,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10028,
+      "Vat21": 2105.88,
+      "TurnoverByCash": 2507.00,
+      "TurnoverByCard": 7521.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2507.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 302,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10029,
+      "Vat21": 2106.09,
+      "TurnoverByCash": 2507.25,
+      "TurnoverByCard": 7521.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2507.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 303,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10030,
+      "Vat21": 2106.30,
+      "TurnoverByCash": 2507.50,
+      "TurnoverByCard": 7522.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2507.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 304,
+    "ReportInfo": {
+      "ReportMonth": 10,
+      "ReportDay": 31,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 10031,
+      "Vat21": 2106.51,
+      "TurnoverByCash": 2507.75,
+      "TurnoverByCard": 7523.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2507.75,
+      "CashBalance": 200,
+      "TotalReceipts": 41
+    }
+  },
+  {
+    "Id": 305,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11001,
+      "Vat21": 2310.21,
+      "TurnoverByCash": 2750.25,
+      "TurnoverByCard": 8250.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2750.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 306,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11002,
+      "Vat21": 2310.42,
+      "TurnoverByCash": 2750.50,
+      "TurnoverByCard": 8251.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2750.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 307,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11003,
+      "Vat21": 2310.63,
+      "TurnoverByCash": 2750.75,
+      "TurnoverByCard": 8252.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2750.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 308,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11004,
+      "Vat21": 2310.84,
+      "TurnoverByCash": 2751.00,
+      "TurnoverByCard": 8253.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2751.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 309,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11005,
+      "Vat21": 2311.05,
+      "TurnoverByCash": 2751.25,
+      "TurnoverByCard": 8253.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2751.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 310,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11006,
+      "Vat21": 2311.26,
+      "TurnoverByCash": 2751.50,
+      "TurnoverByCard": 8254.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2751.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 311,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11007,
+      "Vat21": 2311.47,
+      "TurnoverByCash": 2751.75,
+      "TurnoverByCard": 8255.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2751.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 312,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11008,
+      "Vat21": 2311.68,
+      "TurnoverByCash": 2752.00,
+      "TurnoverByCard": 8256.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2752.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 313,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11009,
+      "Vat21": 2311.89,
+      "TurnoverByCash": 2752.25,
+      "TurnoverByCard": 8256.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2752.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 314,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11010,
+      "Vat21": 2312.10,
+      "TurnoverByCash": 2752.50,
+      "TurnoverByCard": 8257.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2752.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 315,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11011,
+      "Vat21": 2312.31,
+      "TurnoverByCash": 2752.75,
+      "TurnoverByCard": 8258.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2752.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 316,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11012,
+      "Vat21": 2312.52,
+      "TurnoverByCash": 2753.00,
+      "TurnoverByCard": 8259.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2753.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 317,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11013,
+      "Vat21": 2312.73,
+      "TurnoverByCash": 2753.25,
+      "TurnoverByCard": 8259.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2753.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 318,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11014,
+      "Vat21": 2312.94,
+      "TurnoverByCash": 2753.50,
+      "TurnoverByCard": 8260.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2753.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 319,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11015,
+      "Vat21": 2313.15,
+      "TurnoverByCash": 2753.75,
+      "TurnoverByCard": 8261.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2753.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 320,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11016,
+      "Vat21": 2313.36,
+      "TurnoverByCash": 2754.00,
+      "TurnoverByCard": 8262.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2754.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 321,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11017,
+      "Vat21": 2313.57,
+      "TurnoverByCash": 2754.25,
+      "TurnoverByCard": 8262.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2754.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 322,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11018,
+      "Vat21": 2313.78,
+      "TurnoverByCash": 2754.50,
+      "TurnoverByCard": 8263.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2754.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 323,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11019,
+      "Vat21": 2313.99,
+      "TurnoverByCash": 2754.75,
+      "TurnoverByCard": 8264.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2754.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 324,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11020,
+      "Vat21": 2314.20,
+      "TurnoverByCash": 2755.00,
+      "TurnoverByCard": 8265.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2755.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 325,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11021,
+      "Vat21": 2314.41,
+      "TurnoverByCash": 2755.25,
+      "TurnoverByCard": 8265.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2755.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 326,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11022,
+      "Vat21": 2314.62,
+      "TurnoverByCash": 2755.50,
+      "TurnoverByCard": 8266.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2755.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 327,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11023,
+      "Vat21": 2314.83,
+      "TurnoverByCash": 2755.75,
+      "TurnoverByCard": 8267.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2755.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 328,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11024,
+      "Vat21": 2315.04,
+      "TurnoverByCash": 2756.00,
+      "TurnoverByCard": 8268.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2756.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 329,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11025,
+      "Vat21": 2315.25,
+      "TurnoverByCash": 2756.25,
+      "TurnoverByCard": 8268.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2756.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 330,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11026,
+      "Vat21": 2315.46,
+      "TurnoverByCash": 2756.50,
+      "TurnoverByCard": 8269.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2756.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 331,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11027,
+      "Vat21": 2315.67,
+      "TurnoverByCash": 2756.75,
+      "TurnoverByCard": 8270.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2756.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 332,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11028,
+      "Vat21": 2315.88,
+      "TurnoverByCash": 2757.00,
+      "TurnoverByCard": 8271.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2757.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 333,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11029,
+      "Vat21": 2316.09,
+      "TurnoverByCash": 2757.25,
+      "TurnoverByCard": 8271.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2757.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 334,
+    "ReportInfo": {
+      "ReportMonth": 11,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 11030,
+      "Vat21": 2316.30,
+      "TurnoverByCash": 2757.50,
+      "TurnoverByCard": 8272.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -2757.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 335,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 1,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12001,
+      "Vat21": 2520.21,
+      "TurnoverByCash": 3000.25,
+      "TurnoverByCard": 9000.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3000.25,
+      "CashBalance": 200,
+      "TotalReceipts": 11
+    }
+  },
+  {
+    "Id": 336,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 2,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12002,
+      "Vat21": 2520.42,
+      "TurnoverByCash": 3000.50,
+      "TurnoverByCard": 9001.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3000.50,
+      "CashBalance": 200,
+      "TotalReceipts": 12
+    }
+  },
+  {
+    "Id": 337,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 3,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12003,
+      "Vat21": 2520.63,
+      "TurnoverByCash": 3000.75,
+      "TurnoverByCard": 9002.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3000.75,
+      "CashBalance": 200,
+      "TotalReceipts": 13
+    }
+  },
+  {
+    "Id": 338,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 4,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12004,
+      "Vat21": 2520.84,
+      "TurnoverByCash": 3001.00,
+      "TurnoverByCard": 9003.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3001.00,
+      "CashBalance": 200,
+      "TotalReceipts": 14
+    }
+  },
+  {
+    "Id": 339,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 5,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12005,
+      "Vat21": 2521.05,
+      "TurnoverByCash": 3001.25,
+      "TurnoverByCard": 9003.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3001.25,
+      "CashBalance": 200,
+      "TotalReceipts": 15
+    }
+  },
+  {
+    "Id": 340,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 6,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12006,
+      "Vat21": 2521.26,
+      "TurnoverByCash": 3001.50,
+      "TurnoverByCard": 9004.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3001.50,
+      "CashBalance": 200,
+      "TotalReceipts": 16
+    }
+  },
+  {
+    "Id": 341,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 7,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12007,
+      "Vat21": 2521.47,
+      "TurnoverByCash": 3001.75,
+      "TurnoverByCard": 9005.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3001.75,
+      "CashBalance": 200,
+      "TotalReceipts": 17
+    }
+  },
+  {
+    "Id": 342,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 8,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12008,
+      "Vat21": 2521.68,
+      "TurnoverByCash": 3002.00,
+      "TurnoverByCard": 9006.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3002.00,
+      "CashBalance": 200,
+      "TotalReceipts": 18
+    }
+  },
+  {
+    "Id": 343,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 9,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12009,
+      "Vat21": 2521.89,
+      "TurnoverByCash": 3002.25,
+      "TurnoverByCard": 9006.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3002.25,
+      "CashBalance": 200,
+      "TotalReceipts": 19
+    }
+  },
+  {
+    "Id": 344,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 10,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12010,
+      "Vat21": 2522.10,
+      "TurnoverByCash": 3002.50,
+      "TurnoverByCard": 9007.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3002.50,
+      "CashBalance": 200,
+      "TotalReceipts": 20
+    }
+  },
+  {
+    "Id": 345,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 11,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12011,
+      "Vat21": 2522.31,
+      "TurnoverByCash": 3002.75,
+      "TurnoverByCard": 9008.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3002.75,
+      "CashBalance": 200,
+      "TotalReceipts": 21
+    }
+  },
+  {
+    "Id": 346,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 12,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12012,
+      "Vat21": 2522.52,
+      "TurnoverByCash": 3003.00,
+      "TurnoverByCard": 9009.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3003.00,
+      "CashBalance": 200,
+      "TotalReceipts": 22
+    }
+  },
+  {
+    "Id": 347,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 13,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12013,
+      "Vat21": 2522.73,
+      "TurnoverByCash": 3003.25,
+      "TurnoverByCard": 9009.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3003.25,
+      "CashBalance": 200,
+      "TotalReceipts": 23
+    }
+  },
+  {
+    "Id": 348,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 14,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12014,
+      "Vat21": 2522.94,
+      "TurnoverByCash": 3003.50,
+      "TurnoverByCard": 9010.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3003.50,
+      "CashBalance": 200,
+      "TotalReceipts": 24
+    }
+  },
+  {
+    "Id": 349,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 15,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12015,
+      "Vat21": 2523.15,
+      "TurnoverByCash": 3003.75,
+      "TurnoverByCard": 9011.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3003.75,
+      "CashBalance": 200,
+      "TotalReceipts": 25
+    }
+  },
+  {
+    "Id": 350,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 16,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12016,
+      "Vat21": 2523.36,
+      "TurnoverByCash": 3004.00,
+      "TurnoverByCard": 9012.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3004.00,
+      "CashBalance": 200,
+      "TotalReceipts": 26
+    }
+  },
+  {
+    "Id": 351,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 17,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12017,
+      "Vat21": 2523.57,
+      "TurnoverByCash": 3004.25,
+      "TurnoverByCard": 9012.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3004.25,
+      "CashBalance": 200,
+      "TotalReceipts": 27
+    }
+  },
+  {
+    "Id": 352,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 18,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12018,
+      "Vat21": 2523.78,
+      "TurnoverByCash": 3004.50,
+      "TurnoverByCard": 9013.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3004.50,
+      "CashBalance": 200,
+      "TotalReceipts": 28
+    }
+  },
+  {
+    "Id": 353,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 19,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12019,
+      "Vat21": 2523.99,
+      "TurnoverByCash": 3004.75,
+      "TurnoverByCard": 9014.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3004.75,
+      "CashBalance": 200,
+      "TotalReceipts": 29
+    }
+  },
+  {
+    "Id": 354,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 20,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12020,
+      "Vat21": 2524.20,
+      "TurnoverByCash": 3005.00,
+      "TurnoverByCard": 9015.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3005.00,
+      "CashBalance": 200,
+      "TotalReceipts": 30
+    }
+  },
+  {
+    "Id": 355,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 21,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12021,
+      "Vat21": 2524.41,
+      "TurnoverByCash": 3005.25,
+      "TurnoverByCard": 9015.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3005.25,
+      "CashBalance": 200,
+      "TotalReceipts": 31
+    }
+  },
+  {
+    "Id": 356,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 22,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12022,
+      "Vat21": 2524.62,
+      "TurnoverByCash": 3005.50,
+      "TurnoverByCard": 9016.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3005.50,
+      "CashBalance": 200,
+      "TotalReceipts": 32
+    }
+  },
+  {
+    "Id": 357,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 23,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12023,
+      "Vat21": 2524.83,
+      "TurnoverByCash": 3005.75,
+      "TurnoverByCard": 9017.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3005.75,
+      "CashBalance": 200,
+      "TotalReceipts": 33
+    }
+  },
+  {
+    "Id": 358,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 24,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12024,
+      "Vat21": 2525.04,
+      "TurnoverByCash": 3006.00,
+      "TurnoverByCard": 9018.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3006.00,
+      "CashBalance": 200,
+      "TotalReceipts": 34
+    }
+  },
+  {
+    "Id": 359,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 25,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12025,
+      "Vat21": 2525.25,
+      "TurnoverByCash": 3006.25,
+      "TurnoverByCard": 9018.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3006.25,
+      "CashBalance": 200,
+      "TotalReceipts": 35
+    }
+  },
+  {
+    "Id": 360,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 26,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12026,
+      "Vat21": 2525.46,
+      "TurnoverByCash": 3006.50,
+      "TurnoverByCard": 9019.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3006.50,
+      "CashBalance": 200,
+      "TotalReceipts": 36
+    }
+  },
+  {
+    "Id": 361,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 27,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12027,
+      "Vat21": 2525.67,
+      "TurnoverByCash": 3006.75,
+      "TurnoverByCard": 9020.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3006.75,
+      "CashBalance": 200,
+      "TotalReceipts": 37
+    }
+  },
+  {
+    "Id": 362,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 28,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12028,
+      "Vat21": 2525.88,
+      "TurnoverByCash": 3007.00,
+      "TurnoverByCard": 9021.00
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3007.00,
+      "CashBalance": 200,
+      "TotalReceipts": 38
+    }
+  },
+  {
+    "Id": 363,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 29,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12029,
+      "Vat21": 2526.09,
+      "TurnoverByCash": 3007.25,
+      "TurnoverByCard": 9021.75
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3007.25,
+      "CashBalance": 200,
+      "TotalReceipts": 39
+    }
+  },
+  {
+    "Id": 364,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 30,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12030,
+      "Vat21": 2526.30,
+      "TurnoverByCash": 3007.50,
+      "TurnoverByCard": 9022.50
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3007.50,
+      "CashBalance": 200,
+      "TotalReceipts": 40
+    }
+  },
+  {
+    "Id": 365,
+    "ReportInfo": {
+      "ReportMonth": 12,
+      "ReportDay": 31,
+      "PrintedDate": "2022-04-20T16:13:56.8587445+03:00"
+    },
+    "SalesAndTaxes": {
+      "TurnoverWithVat": 12031,
+      "Vat21": 2526.51,
+      "TurnoverByCash": 3007.75,
+      "TurnoverByCard": 9023.25
+    },
+    "CashOperations": {
+      "InsertedCash": 200,
+      "CollectedCash": -3007.75,
+      "CashBalance": 200,
+      "TotalReceipts": 41
+    }
+  }
+]

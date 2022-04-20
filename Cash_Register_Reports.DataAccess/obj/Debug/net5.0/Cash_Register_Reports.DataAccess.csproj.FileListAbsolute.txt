@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\bin\Debug\net5.0\Cash_Register_Reports.DataAccess.deps.json
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\bin\Debug\net5.0\Cash_Register_Reports.DataAccess.dll
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\bin\Debug\net5.0\Cash_Register_Reports.DataAccess.pdb
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\bin\Debug\net5.0\Cash_Register_Reports.Business.dll
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\bin\Debug\net5.0\Cash_Register_Reports.Business.pdb
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\Cash_Register_Reports.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\Cash_Register_Reports.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\Cash_Register_Reports.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\Cash_Register_Reports.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\Cash_Register_Reports.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\Cash_Register_Reports.DataAccess.csproj.CopyComplete
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\Cash_Register_Reports.DataAccess.dll
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\refint\Cash_Register_Reports.DataAccess.dll
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\Cash_Register_Reports.DataAccess.pdb
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\obj\Debug\net5.0\ref\Cash_Register_Reports.DataAccess.dll

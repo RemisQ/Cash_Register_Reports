@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\bin\Debug\net5.0\Cash_Register_Reports.Business.deps.json
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\bin\Debug\net5.0\Cash_Register_Reports.Business.dll
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\bin\Debug\net5.0\Cash_Register_Reports.Business.pdb
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\Cash_Register_Reports.Business.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\Cash_Register_Reports.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\Cash_Register_Reports.Business.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\Cash_Register_Reports.Business.AssemblyInfo.cs
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\Cash_Register_Reports.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\Cash_Register_Reports.Business.dll
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\refint\Cash_Register_Reports.Business.dll
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\Cash_Register_Reports.Business.pdb
+C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.Business\obj\Debug\net5.0\ref\Cash_Register_Reports.Business.dll

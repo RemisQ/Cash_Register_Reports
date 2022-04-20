@@ -9,6 +9,7 @@ namespace Cash_Register_Reports
         {
             DataPrinter dataPrinter = new DataPrinter();
             dataPrinter.PrintAllZReports();
+
         }
     }
 }

@@ -21,7 +21,7 @@ namespace Cash_Register_Reports
                 data.Add($"Grynaisiais:     {zReportsList[i].SalesAndTaxes.TurnoverByCash}");
                 data.Add($"Kortele:         {zReportsList[i].SalesAndTaxes.TurnoverByCard}");
                 data.Add($"Įdėjimas:        {zReportsList[i].CashOperations.InsertedCash}");
-                data.Add($"Išimta:          {zReportsList[i].CashOperations.CollectedCash}");
+                data.Add($"Išimta:         {zReportsList[i].CashOperations.CollectedCash}");
                 data.Add($"Likutis:         {zReportsList[i].CashOperations.CashBalance}");
                 data.Add($"Kvitai:          {zReportsList[i].CashOperations.TotalReceipts}");
                 data.Add($"Laikotarpis:     {zReportsList[i].ReportInfo.ReportMonth}-{zReportsList[i].ReportInfo.ReportDay}");
