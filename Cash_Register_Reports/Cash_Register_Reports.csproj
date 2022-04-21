@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Cash_Register_Reports.Business\Cash_Register_Reports.Business.csproj" />
     <ProjectReference Include="..\Cash_Register_Reports.DataAccess\Cash_Register_Reports.DataAccess.csproj" />
   </ItemGroup>
 

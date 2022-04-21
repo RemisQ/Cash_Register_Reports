@@ -41,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Cash_Register_Reports.Business >= 1.0.0",
       "Cash_Register_Reports.DataAccess >= 1.0.0"
     ]
   },
@@ -76,6 +77,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\16-20_Lessons\\Cash_Register_Reports\\Cash_Register_Reports.Business\\Cash_Register_Reports.Business.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\16-20_Lessons\\Cash_Register_Reports\\Cash_Register_Reports.Business\\Cash_Register_Reports.Business.csproj"
+            },
             "C:\\Users\\User\\source\\repos\\16-20_Lessons\\Cash_Register_Reports\\Cash_Register_Reports.DataAccess\\Cash_Register_Reports.DataAccess.csproj": {
               "projectPath": "C:\\Users\\User\\source\\repos\\16-20_Lessons\\Cash_Register_Reports\\Cash_Register_Reports.DataAccess\\Cash_Register_Reports.DataAccess.csproj"
             }

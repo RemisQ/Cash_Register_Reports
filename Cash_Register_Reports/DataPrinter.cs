@@ -1,8 +1,11 @@
-﻿using Cash_Register_Reports.DataAccess;
+﻿using Cash_Register_Reports.Business;
+using Cash_Register_Reports.DataAccess;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Cash_Register_Reports
@@ -15,6 +18,8 @@ namespace Cash_Register_Reports
         public XReportRepository xReportRepository { get; }
         public XReportData xReportData { get; }
 
+        public List<string> zReportsDataList { get; }
+
 
         public DataPrinter()
         {
@@ -23,8 +28,6 @@ namespace Cash_Register_Reports
             xReportRepository = new XReportRepository();
             xReportData = new XReportData();
         }
-
-
 
         public void PrintAllZReports()
         {
@@ -38,6 +41,7 @@ namespace Cash_Register_Reports
             {
                 Console.WriteLine(zReportsDataList[i]);
             }
+
         }
         public void PrintXReport()
         {

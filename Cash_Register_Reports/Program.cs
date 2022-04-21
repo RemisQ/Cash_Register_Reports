@@ -8,9 +8,8 @@ namespace Cash_Register_Reports
         static void Main(string[] args)
         {
             DataPrinter dataPrinter = new DataPrinter();
-            dataPrinter.PrintAllZReports();
+            dataPrinter.PrintAllZReports(); //Konsole negali atvaizduoti visu duomenu, tik 300 paskutiniu eiluciu
             dataPrinter.PrintXReport();
-
         }
     }
 }

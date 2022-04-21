@@ -43,6 +43,10 @@ namespace Cash_Register_Reports.DataAccess
             string jsonString = JsonSerializer.Serialize(zReports, pushData);
             var jsonPath = @$"C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\{jsonFilename}";
             File.WriteAllText(jsonPath, jsonString);
+
+            var zReportsFile = "zReports.txt";
+            var path = @$"C:\Users\User\source\repos\16-20_Lessons\Cash_Register_Reports\Cash_Register_Reports.DataAccess\{zReportsFile}";
+            File.WriteAllText(path, jsonString);
         }
         public List<ZReport> Retrieve()
         {

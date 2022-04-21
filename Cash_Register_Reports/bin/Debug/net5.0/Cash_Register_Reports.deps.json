@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Cash_Register_Reports/1.0.0": {
         "dependencies": {
+          "Cash_Register_Reports.Business": "1.0.0",
           "Cash_Register_Reports.DataAccess": "1.0.0"
         },
         "runtime": {

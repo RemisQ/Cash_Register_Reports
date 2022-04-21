@@ -9,6 +9,7 @@ namespace Cash_Register_Reports
 {
     public class ZReportsData
     {
+
         public List<string> RetrieveZReportsDataInStringFormat(List<ZReport> zReportsList)
         {
             List<string> data = new List<string>();
@@ -27,6 +28,7 @@ namespace Cash_Register_Reports
                 data.Add($"Laikotarpis:     {zReportsList[i].ReportInfo.ReportMonth}-{zReportsList[i].ReportInfo.ReportDay}");
                 data.Add($"Atspausdinta:    {zReportsList[i].ReportInfo.PrintedDate}");
                 data.Add($"------------------------------------");
+                
 
             }
             return data;
