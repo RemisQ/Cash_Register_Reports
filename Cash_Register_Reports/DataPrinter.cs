@@ -12,12 +12,16 @@ namespace Cash_Register_Reports
     {
         public ZReportRepository zReportRepository { get; }
         public ZReportsData zReportsData { get; }
+        public XReportRepository xReportRepository { get; }
+        public XReportData xReportData { get; }
 
 
         public DataPrinter()
         {
             zReportRepository = new ZReportRepository();
             zReportsData = new ZReportsData();
+            xReportRepository = new XReportRepository();
+            xReportData = new XReportData();
         }
 
 
@@ -33,6 +37,19 @@ namespace Cash_Register_Reports
             for (int i = 0; i < zReportsDataList.Count; i++)
             {
                 Console.WriteLine(zReportsDataList[i]);
+            }
+        }
+        public void PrintXReport()
+        {
+            List<string> xReportDataList = xReportData.RetrieveXReportDataInStringFormat(xReportRepository.Retrieve());
+
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Generated X report:");
+            Console.WriteLine("------------------------------------");
+            Console.ForegroundColor = ConsoleColor.Green;
+            for (int i = 0; i < xReportDataList.Count; i++)
+            {
+                Console.WriteLine(xReportDataList[i]);
             }
         }
     }
