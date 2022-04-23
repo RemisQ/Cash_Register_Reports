@@ -10,11 +10,12 @@ namespace TestZReport
         [TestMethod]
         public void TestMethod1()
         {
-            ZReportsData zReportsData = new ZReportsData();
-     
-            
             ZReportRepository zReportRepository = new ZReportRepository();
-            int id = zReportRepository.Retrieve(4).Id;
+            var id = zReportRepository.Retrieve(4).Id;
+
+            var expected = 5;
+
+            Assert.AreEqual(expected, id);
         }
     }
 }

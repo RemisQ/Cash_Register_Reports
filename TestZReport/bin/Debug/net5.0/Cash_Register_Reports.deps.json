@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cash_Register_Reports/1.0.0": {
+        "dependencies": {
+          "Cash_Register_Reports.Business": "1.0.0",
+          "Cash_Register_Reports.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "Cash_Register_Reports.dll": {}
+        }
+      },
+      "Cash_Register_Reports.Business/1.0.0": {
+        "runtime": {
+          "Cash_Register_Reports.Business.dll": {}
+        }
+      },
+      "Cash_Register_Reports.DataAccess/1.0.0": {
+        "dependencies": {
+          "Cash_Register_Reports.Business": "1.0.0"
+        },
+        "runtime": {
+          "Cash_Register_Reports.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cash_Register_Reports/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cash_Register_Reports.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cash_Register_Reports.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

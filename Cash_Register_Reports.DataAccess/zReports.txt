@@ -4,7 +4,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7491526+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.7417895+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1001,
@@ -24,7 +24,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1002,
@@ -44,7 +44,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1003,
@@ -64,7 +64,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1004,
@@ -84,7 +84,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1005,
@@ -104,7 +104,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1006,
@@ -124,7 +124,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1007,
@@ -144,7 +144,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1008,
@@ -164,7 +164,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1009,
@@ -184,7 +184,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1010,
@@ -204,7 +204,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1011,
@@ -224,7 +224,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1012,
@@ -244,7 +244,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1013,
@@ -264,7 +264,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1014,
@@ -284,7 +284,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1015,
@@ -304,7 +304,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1016,
@@ -324,7 +324,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1017,
@@ -344,7 +344,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1018,
@@ -364,7 +364,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1019,
@@ -384,7 +384,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1020,
@@ -404,7 +404,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1021,
@@ -424,7 +424,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1022,
@@ -444,7 +444,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1023,
@@ -464,7 +464,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1024,
@@ -484,7 +484,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1025,
@@ -504,7 +504,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1026,
@@ -524,7 +524,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1027,
@@ -544,7 +544,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1028,
@@ -564,7 +564,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1029,
@@ -584,7 +584,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1030,
@@ -604,7 +604,7 @@
     "ReportInfo": {
       "ReportMonth": 1,
       "ReportDay": 31,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 1031,
@@ -624,7 +624,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2001,
@@ -644,7 +644,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2002,
@@ -664,7 +664,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2003,
@@ -684,7 +684,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2004,
@@ -704,7 +704,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2005,
@@ -724,7 +724,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2006,
@@ -744,7 +744,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2007,
@@ -764,7 +764,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2008,
@@ -784,7 +784,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2009,
@@ -804,7 +804,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2010,
@@ -824,7 +824,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2011,
@@ -844,7 +844,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2012,
@@ -864,7 +864,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2013,
@@ -884,7 +884,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2014,
@@ -904,7 +904,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2015,
@@ -924,7 +924,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2016,
@@ -944,7 +944,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2017,
@@ -964,7 +964,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2018,
@@ -984,7 +984,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2019,
@@ -1004,7 +1004,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2020,
@@ -1024,7 +1024,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2021,
@@ -1044,7 +1044,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2022,
@@ -1064,7 +1064,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2023,
@@ -1084,7 +1084,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2024,
@@ -1104,7 +1104,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2025,
@@ -1124,7 +1124,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2026,
@@ -1144,7 +1144,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2027,
@@ -1164,7 +1164,7 @@
     "ReportInfo": {
       "ReportMonth": 2,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 2028,
@@ -1184,7 +1184,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3001,
@@ -1204,7 +1204,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3002,
@@ -1224,7 +1224,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3003,
@@ -1244,7 +1244,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3004,
@@ -1264,7 +1264,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3005,
@@ -1284,7 +1284,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3006,
@@ -1304,7 +1304,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3007,
@@ -1324,7 +1324,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3008,
@@ -1344,7 +1344,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3009,
@@ -1364,7 +1364,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3010,
@@ -1384,7 +1384,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3011,
@@ -1404,7 +1404,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3012,
@@ -1424,7 +1424,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3013,
@@ -1444,7 +1444,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3014,
@@ -1464,7 +1464,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3015,
@@ -1484,7 +1484,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3016,
@@ -1504,7 +1504,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3017,
@@ -1524,7 +1524,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3018,
@@ -1544,7 +1544,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3019,
@@ -1564,7 +1564,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3020,
@@ -1584,7 +1584,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3021,
@@ -1604,7 +1604,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3022,
@@ -1624,7 +1624,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3023,
@@ -1644,7 +1644,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3024,
@@ -1664,7 +1664,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3025,
@@ -1684,7 +1684,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3026,
@@ -1704,7 +1704,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3027,
@@ -1724,7 +1724,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3028,
@@ -1744,7 +1744,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3029,
@@ -1764,7 +1764,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3030,
@@ -1784,7 +1784,7 @@
     "ReportInfo": {
       "ReportMonth": 3,
       "ReportDay": 31,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 3031,
@@ -1804,7 +1804,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4001,
@@ -1824,7 +1824,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4002,
@@ -1844,7 +1844,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4003,
@@ -1864,7 +1864,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4004,
@@ -1884,7 +1884,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4005,
@@ -1904,7 +1904,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4006,
@@ -1924,7 +1924,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4007,
@@ -1944,7 +1944,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4008,
@@ -1964,7 +1964,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4009,
@@ -1984,7 +1984,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4010,
@@ -2004,7 +2004,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4011,
@@ -2024,7 +2024,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4012,
@@ -2044,7 +2044,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4013,
@@ -2064,7 +2064,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4014,
@@ -2084,7 +2084,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4015,
@@ -2104,7 +2104,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4016,
@@ -2124,7 +2124,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4017,
@@ -2144,7 +2144,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4018,
@@ -2164,7 +2164,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4019,
@@ -2184,7 +2184,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4020,
@@ -2204,7 +2204,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4021,
@@ -2224,7 +2224,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4022,
@@ -2244,7 +2244,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4023,
@@ -2264,7 +2264,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4024,
@@ -2284,7 +2284,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4025,
@@ -2304,7 +2304,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4026,
@@ -2324,7 +2324,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4027,
@@ -2344,7 +2344,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4028,
@@ -2364,7 +2364,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4029,
@@ -2384,7 +2384,7 @@
     "ReportInfo": {
       "ReportMonth": 4,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 4030,
@@ -2404,7 +2404,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5001,
@@ -2424,7 +2424,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5002,
@@ -2444,7 +2444,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5003,
@@ -2464,7 +2464,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5004,
@@ -2484,7 +2484,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5005,
@@ -2504,7 +2504,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5006,
@@ -2524,7 +2524,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5007,
@@ -2544,7 +2544,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5008,
@@ -2564,7 +2564,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5009,
@@ -2584,7 +2584,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5010,
@@ -2604,7 +2604,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5011,
@@ -2624,7 +2624,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5012,
@@ -2644,7 +2644,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5013,
@@ -2664,7 +2664,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5014,
@@ -2684,7 +2684,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5015,
@@ -2704,7 +2704,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5016,
@@ -2724,7 +2724,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5017,
@@ -2744,7 +2744,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5018,
@@ -2764,7 +2764,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5019,
@@ -2784,7 +2784,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5020,
@@ -2804,7 +2804,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5021,
@@ -2824,7 +2824,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5022,
@@ -2844,7 +2844,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5023,
@@ -2864,7 +2864,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5024,
@@ -2884,7 +2884,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5025,
@@ -2904,7 +2904,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5026,
@@ -2924,7 +2924,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5027,
@@ -2944,7 +2944,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5028,
@@ -2964,7 +2964,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5029,
@@ -2984,7 +2984,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5030,
@@ -3004,7 +3004,7 @@
     "ReportInfo": {
       "ReportMonth": 5,
       "ReportDay": 31,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 5031,
@@ -3024,7 +3024,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6001,
@@ -3044,7 +3044,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6002,
@@ -3064,7 +3064,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6003,
@@ -3084,7 +3084,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6004,
@@ -3104,7 +3104,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6005,
@@ -3124,7 +3124,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6006,
@@ -3144,7 +3144,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6007,
@@ -3164,7 +3164,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6008,
@@ -3184,7 +3184,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6009,
@@ -3204,7 +3204,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6010,
@@ -3224,7 +3224,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6011,
@@ -3244,7 +3244,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6012,
@@ -3264,7 +3264,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6013,
@@ -3284,7 +3284,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6014,
@@ -3304,7 +3304,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6015,
@@ -3324,7 +3324,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6016,
@@ -3344,7 +3344,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6017,
@@ -3364,7 +3364,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6018,
@@ -3384,7 +3384,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6019,
@@ -3404,7 +3404,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6020,
@@ -3424,7 +3424,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6021,
@@ -3444,7 +3444,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6022,
@@ -3464,7 +3464,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6023,
@@ -3484,7 +3484,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6024,
@@ -3504,7 +3504,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6025,
@@ -3524,7 +3524,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6026,
@@ -3544,7 +3544,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6027,
@@ -3564,7 +3564,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6028,
@@ -3584,7 +3584,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6029,
@@ -3604,7 +3604,7 @@
     "ReportInfo": {
       "ReportMonth": 6,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 6030,
@@ -3624,7 +3624,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7001,
@@ -3644,7 +3644,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7002,
@@ -3664,7 +3664,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7003,
@@ -3684,7 +3684,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7004,
@@ -3704,7 +3704,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7005,
@@ -3724,7 +3724,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7006,
@@ -3744,7 +3744,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7007,
@@ -3764,7 +3764,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7008,
@@ -3784,7 +3784,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7009,
@@ -3804,7 +3804,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7010,
@@ -3824,7 +3824,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7011,
@@ -3844,7 +3844,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7012,
@@ -3864,7 +3864,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7013,
@@ -3884,7 +3884,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7014,
@@ -3904,7 +3904,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7015,
@@ -3924,7 +3924,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7016,
@@ -3944,7 +3944,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7017,
@@ -3964,7 +3964,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7018,
@@ -3984,7 +3984,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7019,
@@ -4004,7 +4004,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7020,
@@ -4024,7 +4024,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7021,
@@ -4044,7 +4044,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7022,
@@ -4064,7 +4064,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7023,
@@ -4084,7 +4084,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7024,
@@ -4104,7 +4104,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7025,
@@ -4124,7 +4124,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7026,
@@ -4144,7 +4144,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7027,
@@ -4164,7 +4164,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7028,
@@ -4184,7 +4184,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7029,
@@ -4204,7 +4204,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7030,
@@ -4224,7 +4224,7 @@
     "ReportInfo": {
       "ReportMonth": 7,
       "ReportDay": 31,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 7031,
@@ -4244,7 +4244,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8001,
@@ -4264,7 +4264,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8002,
@@ -4284,7 +4284,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8003,
@@ -4304,7 +4304,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8004,
@@ -4324,7 +4324,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8005,
@@ -4344,7 +4344,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8006,
@@ -4364,7 +4364,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8007,
@@ -4384,7 +4384,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8008,
@@ -4404,7 +4404,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8009,
@@ -4424,7 +4424,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8010,
@@ -4444,7 +4444,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8011,
@@ -4464,7 +4464,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8012,
@@ -4484,7 +4484,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8013,
@@ -4504,7 +4504,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8014,
@@ -4524,7 +4524,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8015,
@@ -4544,7 +4544,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8016,
@@ -4564,7 +4564,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8017,
@@ -4584,7 +4584,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8018,
@@ -4604,7 +4604,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8019,
@@ -4624,7 +4624,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8020,
@@ -4644,7 +4644,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8021,
@@ -4664,7 +4664,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8022,
@@ -4684,7 +4684,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8023,
@@ -4704,7 +4704,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8024,
@@ -4724,7 +4724,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8025,
@@ -4744,7 +4744,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8026,
@@ -4764,7 +4764,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8027,
@@ -4784,7 +4784,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8028,
@@ -4804,7 +4804,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8029,
@@ -4824,7 +4824,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8030,
@@ -4844,7 +4844,7 @@
     "ReportInfo": {
       "ReportMonth": 8,
       "ReportDay": 31,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 8031,
@@ -4864,7 +4864,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9001,
@@ -4884,7 +4884,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9002,
@@ -4904,7 +4904,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9003,
@@ -4924,7 +4924,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9004,
@@ -4944,7 +4944,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9005,
@@ -4964,7 +4964,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9006,
@@ -4984,7 +4984,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9007,
@@ -5004,7 +5004,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9008,
@@ -5024,7 +5024,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9009,
@@ -5044,7 +5044,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9010,
@@ -5064,7 +5064,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9011,
@@ -5084,7 +5084,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9012,
@@ -5104,7 +5104,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9013,
@@ -5124,7 +5124,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9014,
@@ -5144,7 +5144,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9015,
@@ -5164,7 +5164,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9016,
@@ -5184,7 +5184,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9017,
@@ -5204,7 +5204,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9018,
@@ -5224,7 +5224,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9019,
@@ -5244,7 +5244,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9020,
@@ -5264,7 +5264,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9021,
@@ -5284,7 +5284,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9022,
@@ -5304,7 +5304,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9023,
@@ -5324,7 +5324,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9024,
@@ -5344,7 +5344,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9025,
@@ -5364,7 +5364,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9026,
@@ -5384,7 +5384,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9027,
@@ -5404,7 +5404,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9028,
@@ -5424,7 +5424,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9029,
@@ -5444,7 +5444,7 @@
     "ReportInfo": {
       "ReportMonth": 9,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 9030,
@@ -5464,7 +5464,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10001,
@@ -5484,7 +5484,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10002,
@@ -5504,7 +5504,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10003,
@@ -5524,7 +5524,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10004,
@@ -5544,7 +5544,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10005,
@@ -5564,7 +5564,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10006,
@@ -5584,7 +5584,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10007,
@@ -5604,7 +5604,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10008,
@@ -5624,7 +5624,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10009,
@@ -5644,7 +5644,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10010,
@@ -5664,7 +5664,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10011,
@@ -5684,7 +5684,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10012,
@@ -5704,7 +5704,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10013,
@@ -5724,7 +5724,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10014,
@@ -5744,7 +5744,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10015,
@@ -5764,7 +5764,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10016,
@@ -5784,7 +5784,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10017,
@@ -5804,7 +5804,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10018,
@@ -5824,7 +5824,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10019,
@@ -5844,7 +5844,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10020,
@@ -5864,7 +5864,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10021,
@@ -5884,7 +5884,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10022,
@@ -5904,7 +5904,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10023,
@@ -5924,7 +5924,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10024,
@@ -5944,7 +5944,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10025,
@@ -5964,7 +5964,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10026,
@@ -5984,7 +5984,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10027,
@@ -6004,7 +6004,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10028,
@@ -6024,7 +6024,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10029,
@@ -6044,7 +6044,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10030,
@@ -6064,7 +6064,7 @@
     "ReportInfo": {
       "ReportMonth": 10,
       "ReportDay": 31,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 10031,
@@ -6084,7 +6084,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11001,
@@ -6104,7 +6104,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11002,
@@ -6124,7 +6124,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11003,
@@ -6144,7 +6144,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11004,
@@ -6164,7 +6164,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11005,
@@ -6184,7 +6184,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11006,
@@ -6204,7 +6204,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11007,
@@ -6224,7 +6224,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11008,
@@ -6244,7 +6244,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11009,
@@ -6264,7 +6264,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11010,
@@ -6284,7 +6284,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11011,
@@ -6304,7 +6304,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11012,
@@ -6324,7 +6324,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11013,
@@ -6344,7 +6344,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11014,
@@ -6364,7 +6364,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11015,
@@ -6384,7 +6384,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11016,
@@ -6404,7 +6404,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11017,
@@ -6424,7 +6424,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11018,
@@ -6444,7 +6444,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11019,
@@ -6464,7 +6464,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11020,
@@ -6484,7 +6484,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11021,
@@ -6504,7 +6504,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11022,
@@ -6524,7 +6524,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11023,
@@ -6544,7 +6544,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11024,
@@ -6564,7 +6564,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11025,
@@ -6584,7 +6584,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11026,
@@ -6604,7 +6604,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11027,
@@ -6624,7 +6624,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11028,
@@ -6644,7 +6644,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11029,
@@ -6664,7 +6664,7 @@
     "ReportInfo": {
       "ReportMonth": 11,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 11030,
@@ -6684,7 +6684,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 1,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12001,
@@ -6704,7 +6704,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 2,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12002,
@@ -6724,7 +6724,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 3,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12003,
@@ -6744,7 +6744,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 4,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12004,
@@ -6764,7 +6764,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 5,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12005,
@@ -6784,7 +6784,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 6,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12006,
@@ -6804,7 +6804,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 7,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12007,
@@ -6824,7 +6824,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 8,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12008,
@@ -6844,7 +6844,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 9,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12009,
@@ -6864,7 +6864,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 10,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12010,
@@ -6884,7 +6884,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 11,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12011,
@@ -6904,7 +6904,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 12,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12012,
@@ -6924,7 +6924,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 13,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12013,
@@ -6944,7 +6944,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 14,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12014,
@@ -6964,7 +6964,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 15,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12015,
@@ -6984,7 +6984,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 16,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12016,
@@ -7004,7 +7004,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 17,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12017,
@@ -7024,7 +7024,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 18,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12018,
@@ -7044,7 +7044,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 19,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12019,
@@ -7064,7 +7064,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 20,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12020,
@@ -7084,7 +7084,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 21,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12021,
@@ -7104,7 +7104,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 22,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12022,
@@ -7124,7 +7124,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 23,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12023,
@@ -7144,7 +7144,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 24,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12024,
@@ -7164,7 +7164,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 25,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12025,
@@ -7184,7 +7184,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 26,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12026,
@@ -7204,7 +7204,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 27,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12027,
@@ -7224,7 +7224,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 28,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12028,
@@ -7244,7 +7244,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 29,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12029,
@@ -7264,7 +7264,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 30,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12030,
@@ -7284,7 +7284,7 @@
     "ReportInfo": {
       "ReportMonth": 12,
       "ReportDay": 31,
-      "PrintedDate": "2022-04-23T12:49:48.7601533+03:00"
+      "PrintedDate": "2022-04-23T13:01:21.74879+03:00"
     },
     "SalesAndTaxes": {
       "TurnoverWithVat": 12031,
