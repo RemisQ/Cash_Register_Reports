@@ -69,5 +69,24 @@ namespace Cash_Register_Reports
             }
 
         }
+        public void PrintResultsOfYear()
+        {
+            ZReportRepository zReportRepository = new ZReportRepository();
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Results of 2021:");
+            Console.WriteLine("------------------------------------");
+            var turnover2021 = zReportRepository.CountTurnoverOfYear();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine($"Metinė apyvarta: {turnover2021} eurų");
+            var vat2021 = zReportRepository.CountVatOfYear();
+            Console.WriteLine($"Metinis PVM: {vat2021} eurų");
+            var card2021 = zReportRepository.CountByCardOfYear();
+            Console.WriteLine($"Atsiskaitymai kortele: {card2021} eurų");
+            var cash2021 = zReportRepository.CountByCashOfYear();
+            Console.WriteLine($"Atsiskaitymai grynais: {cash2021} eurų");
+            var receipts2021 = zReportRepository.CountReceiptsOfYear();
+            Console.WriteLine($"Viso kvitų: {receipts2021}");
+            Console.WriteLine("------------------------------------");
+        }
     }
 }

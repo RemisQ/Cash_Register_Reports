@@ -12,7 +12,6 @@ namespace TestZReport
         {
             ZReportRepository zReportRepository = new ZReportRepository();
             var id = zReportRepository.Retrieve(4).Id;
-
             var expected = 5;
 
             Assert.AreEqual(expected, id);

@@ -56,5 +56,50 @@ namespace Cash_Register_Reports.DataAccess
         {
             return zReports[number];
         }
+        public decimal CountTurnoverOfYear()
+        {
+            decimal turnoverOfYear = 0;
+            for (int i = 0; i < zReports.Count; i++)
+            {
+                turnoverOfYear += zReports[i].SalesAndTaxes.TurnoverWithVat;
+            }
+            return turnoverOfYear;
+        }
+        public decimal CountVatOfYear()
+        {
+            decimal vatOfYear = 0;
+            for (int i = 0; i < zReports.Count; i++)
+            {
+                vatOfYear += zReports[i].SalesAndTaxes.Vat21;
+            }
+            return vatOfYear;
+        }
+        public decimal CountByCardOfYear()
+        {
+            decimal byCardOfYear = 0;
+            for (int i = 0; i < zReports.Count; i++)
+            {
+                byCardOfYear += zReports[i].SalesAndTaxes.TurnoverByCard;
+            }
+            return byCardOfYear;
+        }
+        public decimal CountByCashOfYear()
+        {
+            decimal byCashOfYear = 0;
+            for (int i = 0; i < zReports.Count; i++)
+            {
+                byCashOfYear += zReports[i].SalesAndTaxes.TurnoverByCash;
+            }
+            return byCashOfYear;
+        }
+        public int CountReceiptsOfYear()
+        {
+            int receiptsOfYear = 0;
+            for (int i = 0; i < zReports.Count; i++)
+            {
+                receiptsOfYear += zReports[i].CashOperations.TotalReceipts;
+            }
+            return receiptsOfYear;
+        }
     }
 }

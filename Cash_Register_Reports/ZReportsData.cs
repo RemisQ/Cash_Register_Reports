@@ -35,7 +35,9 @@ namespace Cash_Register_Reports
          public List<string> RetrieveZReportByIdDataInStringFormat(List<ZReport> zReportsList)
         {
             List<string> data = new List<string>();
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Z ataskaita pagal ID\n\rIveskite skaiciu nuo 1 iki 365");
+            Console.WriteLine("------------------------------------");
             int number = Convert.ToInt32(Console.ReadLine());
 
                 for (int i = number - 1; i <= number - 1; i++)
