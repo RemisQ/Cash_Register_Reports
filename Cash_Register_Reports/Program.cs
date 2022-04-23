@@ -10,6 +10,7 @@ namespace Cash_Register_Reports
             DataPrinter dataPrinter = new DataPrinter();
             dataPrinter.PrintAllZReports(); //Konsole negali atvaizduoti visu duomenu, tik 300 paskutiniu eiluciu
             dataPrinter.PrintXReport();
+            dataPrinter.PrintByIdZReport();
         }
     }
 }

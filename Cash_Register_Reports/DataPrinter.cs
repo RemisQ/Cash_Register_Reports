@@ -56,5 +56,18 @@ namespace Cash_Register_Reports
                 Console.WriteLine(xReportDataList[i]);
             }
         }
+        public void PrintByIdZReport()
+        {
+            List<string> zReportsDataList = zReportsData.RetrieveZReportByIdDataInStringFormat(zReportRepository.Retrieve());
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Generated Z report by ID:");
+            Console.WriteLine("------------------------------------");
+            Console.ForegroundColor = ConsoleColor.Green;
+            for (int i = 0; i < zReportsDataList.Count; i++)
+            {
+                Console.WriteLine(zReportsDataList[i]);
+            }
+
+        }
     }
 }
